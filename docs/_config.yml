@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Curated list of open-source software related to the CME Pillar 3
-description: Trustworthy Artificial Intelligence for Sensory-rich Surgical Robotics
+title: Curated list of open-source software related to the Centre for Medical Engineering (CME)
+description: Pillar 3 - Trustworthy Artificial Intelligence for Sensory-rich Surgical Robotics
