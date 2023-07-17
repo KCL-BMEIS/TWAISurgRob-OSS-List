@@ -12,6 +12,7 @@ This pages serves as a curatel list of open-source software developped, maintain
 -  [spectrumdevice](https://github.com/KCL-BMEIS/spectrumdevice): Python library for communicating with digitisers manufactured by [Spectrum Instrumentation](https://spectrum-instrumentation.com/).
 
 ## Surgical vision
+- [torch-content-area](https://github.com/charliebudd/torch-content-area): A PyTorch tool kit for estimating the circular content area in endoscopic footage.
 - [semi-synthetic](https://github.com/luiscarlosgph/semi-synthetic): Image compositing for segmentation of surgical tools without manual annotations.
 - [list-of-surgical-tool-datasets](https://github.com/luiscarlosgph/list-of-surgical-tool-datasets): List of surgical tool datasets organised by task.
 
