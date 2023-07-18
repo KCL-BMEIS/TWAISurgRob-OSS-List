@@ -16,6 +16,7 @@ This pages serves as a curatel list of open-source software developped, maintain
 
 ## Scientic equipment
 -  [spectrumdevice](https://github.com/KCL-BMEIS/spectrumdevice): Python library for communicating with digitisers manufactured by [Spectrum Instrumentation](https://spectrum-instrumentation.com/).
+-  [pymagewell](https://github.com/KCL-BMEIS/pymagewell): a Python library for interfacing with Magewell ProCapture frame grabbers.
 
 ## Surgical vision
 - [torch-content-area](https://github.com/charliebudd/torch-content-area): A PyTorch tool kit for estimating the circular content area in endoscopic footage.
