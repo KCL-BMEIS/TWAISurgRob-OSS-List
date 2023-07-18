@@ -10,9 +10,6 @@ This pages serves as a curatel list of open-source software developped, maintain
 - [optas](https://github.com/cmower/optas): An optimization-based task specification library for task and motion planning (TAMP), trajectory optimization, forward/inverse kinematics, and model predictive control in Python. Also, see [paper](https://ieeexplore.ieee.org/document/10161272).
 - [FRI-Client-SDK_Python](https://github.com/cmower/FRI-Client-SDK_Python): Library for the FRI library that controls the KUKA LBR robot arm in Python.
 - [FRI-Client-SDK_Cpp](https://github.com/cmower/FRI-Client-SDK_Cpp): C++ FRI library including CMake files for controlling the KUKA LBR robot arm.
-- [xarm](https://github.com/RViMLab/xarm) [currently private]: Instructions and code examples for getting started with the xArm robot.
-- [haption_ros_driver](https://github.com/RViMLab/haption_ros_driver) [currently private]: ROS driver for the Haption Virtuose haptic devices.
-- [geomagic_touch_x](https://github.com/RViMLab/geomagic_touch_x) [currently private]: Software required for control of 3D Systems Geomagic Touch X. 
 - [geomagic_touch_x_ros_driver](https://github.com/RViMLab/geomagic_touch_x_ros_driver): ROS package for control of 3D Systems Geomagic Touch X.
 - [eff_wrench](https://github.com/cmower/eff_wrench): ROS 2 node for estimating end-effector wrench. 
 
