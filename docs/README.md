@@ -22,6 +22,8 @@ This pages serves as a curated list of open-source software developped, maintain
 - [torch-content-area](https://github.com/charliebudd/torch-content-area): A PyTorch tool kit for estimating the circular content area in endoscopic footage.
 - [semi-synthetic](https://github.com/luiscarlosgph/semi-synthetic): Image compositing for segmentation of surgical tools without manual annotations.
 - [list-of-surgical-tool-datasets](https://github.com/luiscarlosgph/list-of-surgical-tool-datasets): List of surgical tool datasets organised by task.
+- [videosum](https://github.com/luiscarlosgph/videosum): Simple video summarisation Python package.
+- [latentplot](https://github.com/luiscarlosgph/latentplot): Python package to plot the latent space of a set of images with different methods.
 
 ## Data management
 - [synapi](https://github.com/luiscarlosgph/synapi): Python package to deal with Synapse datasets in a more convenient way.
@@ -29,3 +31,5 @@ This pages serves as a curated list of open-source software developped, maintain
 ## Misc
 - [PyTorchFromCPPTest](https://github.com/cai4cai/PyTorchFromCPPTest): A simple example repository illustrating how to call PyTorch (python) from c++.
 - [torchmaxflow](https://github.com/masadcv/torchmaxflow): PyTorch-based implementation of Max-flow/Min-cut (graphcut) for 2D/3D data.
+- [grabcut](https://github.com/luiscarlosgph/grabcut): GrabCut implementation that works seamlessly for C++ and Python.
+- [MONAI](https://github.com/Project-MONAI/MONAI): AI Toolkit for Healthcare Imaging.
