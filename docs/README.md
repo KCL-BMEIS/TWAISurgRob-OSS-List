@@ -7,6 +7,12 @@ This pages serves as a curatel list of open-source software developped, maintain
 
 ## Robotics
 - [lbr_fri_ros2_stack](https://github.com/KCL-BMEIS/lbr_fri_ros2_stack): ROS 2 packages for the KUKA LBR, including communication to the real robot via the Fast Robot Interface ([FRI](https://github.com/KCL-BMEIS/fri)) and [Gazebo](http://gazebosim.org/) simulation support.
+- [optas](https://github.com/cmower/optas): An optimization-based task specification library for task and motion planning (TAMP), trajectory optimization, forward/inverse kinematics, and model predictive control in Python. Also, see [paper](https://ieeexplore.ieee.org/document/10161272).
+- [FRI-Client-SDK_Python](https://github.com/cmower/FRI-Client-SDK_Python): Library for the FRI library that controls the KUKA LBR robot arm in Python.
+- [FRI-Client-SDK_Cpp](https://github.com/cmower/FRI-Client-SDK_Cpp): C++ FRI library including CMake files for controlling the KUKA LBR robot arm.
+- [geomagic_touch_x_ros_driver](https://github.com/RViMLab/geomagic_touch_x_ros_driver): ROS package for control of 3D Systems Geomagic Touch X.
+- [eff_wrench](https://github.com/cmower/eff_wrench): ROS 2 node for estimating end-effector wrench. 
+
 
 ## Scientic equipment
 -  [spectrumdevice](https://github.com/KCL-BMEIS/spectrumdevice): Python library for communicating with digitisers manufactured by [Spectrum Instrumentation](https://spectrum-instrumentation.com/).
