@@ -24,6 +24,7 @@ This pages serves as a curated list of open-source software developped, maintain
 - [list-of-surgical-tool-datasets](https://github.com/luiscarlosgph/list-of-surgical-tool-datasets): List of surgical tool datasets organised by task.
 - [videosum](https://github.com/luiscarlosgph/videosum): Simple video summarisation Python package.
 - [latentplot](https://github.com/luiscarlosgph/latentplot): Python package to plot the latent space of a set of images with different methods.
+- [oflibpytorch](https://github.com/RViMLab/oflibpytorch): Python package to manipulate, operate on, and combine optical flow fields, differentiable for the use in deep learning networks
 
 ## Data management
 - [synapi](https://github.com/luiscarlosgph/synapi): Python package to deal with Synapse datasets in a more convenient way.
